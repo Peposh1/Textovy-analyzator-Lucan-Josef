@@ -1,3 +1,3 @@
 "# engeto-projekt" 
 "# engeto-projekt" 
-# bulls-and-cows
+# Textový analyzátor
